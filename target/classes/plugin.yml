@@ -1,0 +1,11 @@
+name: DiamondReports
+version: '0.1-beta'
+main: me.gusandr.diamondreports.Plugin
+api-version: '1.17'
+depend: [LiteBans]
+
+commands:
+  report:
+    description: Разные команды для проверки
+  reports:
+    description: Разные команды для проверки

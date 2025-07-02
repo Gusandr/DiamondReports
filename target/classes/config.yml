@@ -1,0 +1,29 @@
+item-report:
+  name: "&2&l%suspectPlayer"
+  lore:
+    - "&6Отправил %whoSendReport"
+    - "&dДата: &n%date&f"
+    - "&cОписание: &l%moreInfo"
+    - "Кликни что бы начать взаимодействие с репортом!"
+    - "&cРепорт занят? &l%complaintTaken"
+#    - "" # и т.д.
+
+
+date:
+  format: "dd.MM.yyyy HH:mm:ss"
+
+anarchy:
+  number: "Гей Анархия - 666" # Прочитал - гей.
+
+text:
+  message:
+    no-player-send: "&2 123"
+    no-perm-player: "&812345"
+    misuse: "&63123123"
+    it-worked: "&c1412412412"
+    error-args: "&dНет такого игрока!"
+    too-many-arguments: "&l0124124"
+    new-report-send: "&cМодераторы! Новый репорт! Смотрите /reports"
+
+discord:
+  webhooks: "https://discord.com/api/webhooks/1178788268096106497/k0F8JoMsXrQsgcDOZJuaaRzqIfjeADx3LNW5aBBw9OxVXwKwqKKasE1tPAmBBRa_Psep" # ссылка на вебхук
